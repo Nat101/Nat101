@@ -1,4 +1,4 @@
-### Welcome! My name is Natalie and I'm a Data Focused Software Engineer.
+### Welcome! My name is Natalie and I'm a Data Engineer.
 
 :computer: I have a degree in Computer Science from the University of Alaska and currently work as a Senior Data Engineer.  I'm also an Adjunct Instructor for the College of Engineering at UAA teaching Introduction to Data Science.   
 
